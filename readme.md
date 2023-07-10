@@ -73,7 +73,7 @@ Contributions to this repository are welcome! If you have any improvements, bug 
 
 ## License
 
-This repository is licensed under the MIT License. You are free to use, modify, and distribute the code in this repository for personal or commercial purposes.
+This repository is licensed under the [MIT License](https://github.com/ajitsingh98/Hands-on-with-OpenCV/blob/main/LICENSE). You are free to use, modify, and distribute the code in this repository for personal or commercial purposes.
 
 
 
